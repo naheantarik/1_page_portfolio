@@ -12,6 +12,10 @@
   position: relative;
 }
 
+h3 {
+  color: #f34804;
+}
+
 nav {
   display: flex;
   width: 84%;
